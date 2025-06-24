@@ -1,5 +1,5 @@
 # Elevate-labs-task-2
-📧 #Phishing Email Analysis – Cyber Security Internship Task 2
+📧 #PHISHING EMAIL ANALYSIS-CYBERSECURITY INTERN TASK 2
 Task Objective
 The goal of this task is to analyze a suspicious email for phishing indicators and understand how attackers use spoofing, social engineering, and malicious links to deceive users.
 
@@ -17,10 +17,10 @@ Indicator | Description
 | Threatening Tone | Threatens account suspension to pressure user to click
 | Social Engineering | Exploits trust in PayPal and fear of losing account
 
-Email Header Analysis
+EMAIL HEADER ANALYSIS
 Tool used: MXToolbox Email Header Analyzer
 
-Sample header:
+SAMPLE HEADER:
 
 Received: from unknown123.secure-login247.com ([192.168.1.15])
 	by smtp.secure-paypal.com with SMTP id xYz123abc456;
