@@ -1,5 +1,5 @@
 # Elevate-labs-task-2
-📧 Phishing Email Analysis – Cyber Security Internship Task 2
+📧 #Phishing Email Analysis – Cyber Security Internship Task 2
 Task Objective
 The goal of this task is to analyze a suspicious email for phishing indicators and understand how attackers use spoofing, social engineering, and malicious links to deceive users.
 
